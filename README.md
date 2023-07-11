@@ -33,4 +33,4 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
 
-![daw](https://giphy.com/embed/NVBR6cLvUjV9C)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
