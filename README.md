@@ -35,6 +35,5 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 
 # Segmentation results
 
-![Alt Text](WhatsApp_Video_2023-07-11_at_23_49_15_AdobeExpress.gif )
 ![Alt Text](wda_AdobeExpress.gif )
 
