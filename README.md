@@ -32,3 +32,5 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 3. There a 8 packages , do not use catkin_build_isolated but use catkin build.
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
+
+![daw](https://github.com/Atharv-16/Averera/a177dfc84703c31afa0d501ccf43fe4f.gif)
