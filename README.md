@@ -33,5 +33,7 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
 
+#Segmentation results
 ![Alt Text](WhatsApp_Video_2023-07-11_at_23_49_15_AdobeExpress.gif)
+![Alt Text](wda_AdobeExpress.gif)
 
