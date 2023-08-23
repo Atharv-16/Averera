@@ -1,4 +1,54 @@
 # Averera
+# Autonomous Self-Driving Test Vehicle
+
+The Autonomous Self-Driving Test Vehicle project combines computer vision, perception algorithms, and advanced control systems to achieve autonomous navigation. It integrates perception, localization, path planning, actuators, and real-time hardware communication to create a comprehensive self-driving solution.
+
+## Project Overview
+
+This project aims to build a self-driving vehicle capable of perceiving its environment, planning paths, and executing actions autonomously. It incorporates several key components:
+
+- **Computer Vision and Perception:** The project uses advanced computer vision techniques for road segmentation, obstacle detection, and environment understanding.
+
+- **Localization:** Precise localization is ensured by sensors and camera data to determine the vehicle's position accurately.
+
+- **Path Planning:** Path planning algorithms generate optimal trajectories based on environment perception and destination, creating waypoints for navigation.
+
+- **Control Systems:** PID controllers offer real-time control for accurate steering, speed regulation, and overall stability.
+
+- **Arduino Communication:** ROS and rosserial enable seamless communication with Arduino microcontrollers, allowing physical interactions and environment changes.
+
+## Features and Highlights
+
+- **Camera Feed Integration:** Real-time camera feeds from Logitech USB cameras and Oak-D Lite cameras provide critical visual data for perception.
+
+- **Joystick Control:** ROS-enabled joystick control allows manual interaction and controlled testing of vehicle functions.
+
+- **Deep Learning Framework:** TensorFlow integration facilitates deep learning models for advanced perception tasks and object detection.
+
+## Usage
+
+1. Install necessary ROS packages, including USB camera drivers and joystick support.
+2. Launch camera nodes to feed video data into the perception pipeline.
+3. Execute the perception node (`vision.py`) for road segmentation and object detection.
+4. Generate waypoints and path plans using control systems and algorithms.
+5. Utilize PID controllers for precise steering and speed management.
+6. Communicate with Arduino microcontrollers for physical actuation.
+
+## Results
+
+The project presents two critical demonstrations. The first showcases road segmentation and perception through a GIF, while the second displays autonomous vehicle navigation using perception, control, and planning.
+
+![Segmentation Results](wda_AdobeExpress.gif)
+
+![Autonomous Operation](aaa.gif)
+
+## Future Development
+
+As autonomous technology advances, this project serves as a foundation for further exploration. Future enhancements may involve advanced machine learning, semantic mapping, obstacle avoidance, and integration with larger-scale autonomous systems.
+
+The Autonomous Self-Driving Test Vehicle project demonstrates the limitless potential of modern robotics and automation.
+
+## Running
 
 1. `roslaunch usb_cam usb_cam-test.launch` publishes camera frame to "/usb_cam/image_raw" topic.
 2. `vision.py` subscribes to "/usb_cam/image_raw" and publishes error to "error" topic.
