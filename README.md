@@ -75,7 +75,7 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 7. Run `python3 -m pip install tensorflow` on terminal to install tensorflow for `vision.py`.
 8. Run `sudo apt-get install ros-noetic-rosserial-arduino` to install rosserial for communication with arduino.
 
-# Setting up Oak-D Lite:
+## Setting up Oak-D Lite:
 
 1. Follow steps from  [here](https://github.com/luxonis/depthai-ros).
 2. Follow every step till Docker(excluded), then go to 'Executing a file'.
@@ -83,12 +83,5 @@ Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
 
-# Segmentation results
 
-![Alt Text](wda_AdobeExpress.gif )
-
-# Testing results
-**Running autonomously**
-
-![Alt Text](aaa.gif )
 
