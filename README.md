@@ -61,8 +61,9 @@ The Autonomous Self-Driving Test Vehicle project demonstrates the limitless pote
 `steer_joy.py` is to be used for joystick control only.
 
 Download model folder from [here]([https://drive.google.com/drive/folders/1-HP9OF_aj281cIZcciGRsn826bf1wL1B?usp=share_link](https://drive.google.com/file/d/1dZHzGoYTvhoo_Ys4Sx4edBHCpdC61raI/view?usp=sharing)).
-
-
+Download Manual control ROS package from [here](https://drive.google.com/file/d/1dvYleEhMm6OSeBeS5bw1i_uCxmsdZ_JS/view?usp=sharing).
+Download Autonomous ROS package from [here](https://drive.google.com/file/d/1FMS4M6jBH44xCsQ8LMSfTpOO6fT5P897/view?usp=sharing).
+Download Oakd-Lite ROS package from [here](https://drive.google.com/file/d/17iS2hzYX-NaiL9oLPft_460quamsX5fC/view?usp=sharing).
 ## Setting up
 
 1. Run `sudo apt-get install ros-noetic-usb-cam` to install camera node for video feed
