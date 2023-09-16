@@ -60,7 +60,7 @@ The Autonomous Self-Driving Test Vehicle project demonstrates the limitless pote
 
 `steer_joy.py` is to be used for joystick control only.
 
-Download model folder from [here](https://drive.google.com/drive/folders/1-HP9OF_aj281cIZcciGRsn826bf1wL1B?usp=share_link).
+Download model folder from [here]([https://drive.google.com/drive/folders/1-HP9OF_aj281cIZcciGRsn826bf1wL1B?usp=share_link](https://drive.google.com/file/d/1dZHzGoYTvhoo_Ys4Sx4edBHCpdC61raI/view?usp=sharing)).
 
 
 ## Setting up
