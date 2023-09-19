@@ -60,7 +60,7 @@ The Autonomous Self-Driving Test Vehicle project demonstrates the limitless pote
 
 `steer_joy.py` is to be used for joystick control only.
 
-Download model folder from [here]([https://drive.google.com/drive/folders/1-HP9OF_aj281cIZcciGRsn826bf1wL1B?usp=share_link](https://drive.google.com/file/d/1dZHzGoYTvhoo_Ys4Sx4edBHCpdC61raI/view?usp=sharing)).
+Download model weights from [here](https://drive.google.com/file/d/1dZHzGoYTvhoo_Ys4Sx4edBHCpdC61raI/view?usp=sharing).
 Download Manual control ROS package from [here](https://drive.google.com/file/d/1dvYleEhMm6OSeBeS5bw1i_uCxmsdZ_JS/view?usp=sharing).
 Download Autonomous ROS package from [here](https://drive.google.com/file/d/1FMS4M6jBH44xCsQ8LMSfTpOO6fT5P897/view?usp=sharing).
 Download Oakd-Lite ROS package from [here](https://drive.google.com/file/d/17iS2hzYX-NaiL9oLPft_460quamsX5fC/view?usp=sharing).
@@ -84,8 +84,9 @@ Download Oakd-Lite ROS package from [here](https://drive.google.com/file/d/17iS2
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
 
-##General Structure of Autonomy
-![Picture1](https://github.com/Atharv-16/Averera/assets/119600601/2c0a4fc1-5650-473f-9540-c89333a1997e)
+## General Structure of Autonomy
+
+![flowchart](https://github.com/Atharv-16/Averera/assets/119600601/10c70a10-1a8e-4d39-b091-d55117b2fcaa)
 
 
 
