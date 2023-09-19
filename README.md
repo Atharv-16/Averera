@@ -84,5 +84,8 @@ Download Oakd-Lite ROS package from [here](https://drive.google.com/file/d/17iS2
 4. After build, simply launch file given above at point 6 in Setting up.
 5. Multiple topics will appear and desired image will be published on some topic.
 
+##General Structure of Autonomy
+![Picture1](https://github.com/Atharv-16/Averera/assets/119600601/2c0a4fc1-5650-473f-9540-c89333a1997e)
+
 
 
