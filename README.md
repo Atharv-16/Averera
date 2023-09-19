@@ -42,6 +42,11 @@ The project presents two critical demonstrations. The first showcases road segme
 
 ![Autonomous Operation](aaa.gif)
 
+
+
+https://github.com/Atharv-16/Averera/assets/119600601/bc2a21e6-bc7e-4539-a556-9edc2750a52e
+
+
 ## Future Development
 
 As autonomous technology advances, this project serves as a foundation for further exploration. Future enhancements may involve advanced machine learning, semantic mapping, obstacle avoidance, and integration with larger-scale autonomous systems.
