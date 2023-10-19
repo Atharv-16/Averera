@@ -86,7 +86,7 @@ Download Oakd-Lite ROS package from [here](https://drive.google.com/file/d/17iS2
 5. Run `rosrun usb_cam usb_cam_node` for the camera feed for logitech usb cam feed.
 6. Run `roslaunch depthai_examples mobile_publisher.launch` for oak-d lite cam feed.
 
-7. Run `python3 -m pip install tensorflow` on terminal to install tensorflow for `vision.py`.
+7. Run `python3 -m pip install tensorflow` and `pip install tensorflow-addons` on terminal to install tensorflow for `vision.py`.
 8. Run `sudo apt-get install ros-noetic-rosserial-arduino` to install rosserial for communication with arduino.
 
 ## Setting up Oak-D Lite:
