@@ -42,6 +42,8 @@ The project presents two critical demonstrations. The first showcases road segme
 
 ![Autonomous Operation](aaa.gif)
 
+![3D mapping by SLAM](map.png)
+
 
 
 https://github.com/Atharv-16/Averera/assets/119600601/591098bb-d76f-4b30-8962-95f5171b66fb
