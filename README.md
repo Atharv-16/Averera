@@ -1,6 +1,5 @@
 # Averera
 ![vehicles](IMG_20240103_183659276 (1) (1).jpg)
-IMG_20240103_183659276.jpg
 
 # Autonomous Self-Driving Test Vehicle
 
