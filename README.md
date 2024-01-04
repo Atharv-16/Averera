@@ -1,4 +1,7 @@
 # Averera
+![vehicles](IMG_20240103_183659276.jpg)
+IMG_20240103_183659276.jpg
+
 # Autonomous Self-Driving Test Vehicle
 
 The Autonomous Self-Driving Test Vehicle project combines computer vision, perception algorithms, and advanced control systems to achieve autonomous navigation. It integrates perception, localization, path planning, actuators, and real-time hardware communication to create a comprehensive self-driving solution.
