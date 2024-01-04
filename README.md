@@ -44,7 +44,7 @@ The project presents two critical demonstrations. The first showcases road segme
 
 ![Autonomous Operation](aaa.gif)
 
-![3D mapping by SLAM](map.png)
+![3D mapping by SLAM](demo.png)
 
 
 
