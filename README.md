@@ -50,6 +50,10 @@ The project presents two critical demonstrations. The first showcases road segme
 
 
 
+
+https://github.com/Atharv-16/Averera/assets/119600601/3465ca48-94dc-4db1-a2b2-9b3ba2aa31b3
+
+
 https://github.com/Atharv-16/Averera/assets/119600601/591098bb-d76f-4b30-8962-95f5171b66fb
 
 
